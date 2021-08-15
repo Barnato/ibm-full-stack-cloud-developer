@@ -1,0 +1,31 @@
+Types of Virtual Machines
+
+VMs
+
+Virtual Machines
+
+virtual servers are also known as virtual instances
+
+vm in cloud - choose region, zone (data center), OS
+
+choose shared or dedicated  (single tenant)
+
+hourly or monthly billing
+
+shared or public cloud VMs
+
+pre-define sites and configurations
+
+virtual compress
+memory
+
+transient VMs - offered at a discount
+but run risk of losing VMs when provider decomissions, so good for testing non critical applications, low costs
+
+reserved virtual server instances
+
+commit to lower term contract can lower constraints
+
+exceed reserved capacity - hourly and monthly environments
+
+dedicated hosts - meeting compliance
