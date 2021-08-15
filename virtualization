@@ -1,0 +1,23 @@
+virtualization
+
+compute, storage, networks
+
+hypervisor makes feasible
+
+hypervisor - software runs above host
+
+allocates resources
+
+hypervisors: type 1, type 2
+
+type 1 - bare metal hyper hypervisor
+type 2 - hosted, less used, end user virtualiation, virtual box, higher latency
+
+software based computer
+
+cost savings
+
+multiple vitual environments from one Infrastructure
+reduce number of servers, electricity, maintenance constraints
+
+agility and speed
