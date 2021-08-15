@@ -1,0 +1,15 @@
+Secure Networking in Cloud
+
+cloud vnics (network interface controllers), logical instances
+
+on pem data center - nics, network interface controllers, physical devices
+
+VPC - sub networks
+
+subnets - protect via ACL (access control lists)  - subnet level firewalls
+
+security at instance level at VSI
+
+direct connectivity is safer
+
+extends on prem resources to clouds
