@@ -1,0 +1,28 @@
+Bare Metal servers
+
+A bare metal server - dedicated physical servers
+
+dedicated to a single customers
+
+server plugged into rack in data servers
+cloud provider managed server up to OS
+
+will fix rack connection, reboot
+
+customer is responsible for managing everything else on servers
+
+bare metal server can be preconfigured or custom configured
+
+ram, os, components
+
+customers can install their own OS, or own hypervisiors
+
+bare metal servers can add GPU - help scientific computing
+
+bare metal servers - high performance, big data analytics, ERP, AI, virtualization
+
+bare metal vs virtualized
+
+bare metal - virtual and high performance, compliance, control and transparency
+
+virtual servers - low cost, limited in performance
