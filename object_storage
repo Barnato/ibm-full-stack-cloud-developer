@@ -1,0 +1,17 @@
+Objects, data storgae, object storage applications
+
+standard tier - objects frequently access, high costs
+vault tier - documents only accessed once/twice a month, lower cost
+cold vault tier - data needs to be accessed once or twice a year
+automatic archiving rules, can take hours, as storage is offline
+
+object storage is low compared to block or file storage
+
+object storage is not good if you need speed
+
+S3 API - OBEJECT STORAGE accessed via API, S3 API - offered by AWS
+many object providers offer APIs compatibles with S3 
+API - http - restful web services
+API call - apps can manage object storage
+Object storage can used for new and old apps
+Object storage can be used for disaster recovery
