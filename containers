@@ -1,0 +1,45 @@
+Containers
+
+js application
+
+VM vs Containers
+
+hardware
+host OS
+hypervisor - spring up VM
+
+linux VM
+Guest + host OS
+
+
+to create Linux VM we need guest OS
+
+push JS application consumes resources
+
+scaling this about.
+
+JS application developed on mac book - incompabilities on Linux.
+
+Things work ok on local machine but not when push to production, gets in way of agile and delivery.
+
+Create image. Image - can be made with Docker or Rocket (containeriation technology)
+
+Host operaitng systems
+
+Run time engine
+
+Docker engine
+
+Scenario: JS application - image recognition. Got third part srvrice, access using Pthyon application.
+
+Create VM, JS + Python applications
+
+But scalability issiues if JS + Python apps in same VM
+
+would have to have two VMS
+
+Container based approach is better - can deploy one copu of the Python application.
+
+Shared between all the processes
+
+Containers are more portable, can scale them out, streamline deployment of cloud native applications
