@@ -1,0 +1,15 @@
+Basics of Cloud Storage
+
+cloud providers host + secure cloud storage and Infrastructure
+
+per GB basis
+
+faster read + write higher costs
+
+direct attached - presented directly to server, in same rack, v fast but only lasts as long as compute resource, failure issue
+file Storage - network file system, common, slower than direct attached, over ethernet, but it can be mounted on multip;e servers
+object storage - cheapest + slowest. Read/write. But infinite in size. Unstructured data, videos, logs, documents
+
+back up file and block storage - snapshot, point in time Image
+
+quick and create meta data
