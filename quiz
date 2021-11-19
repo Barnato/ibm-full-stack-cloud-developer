@@ -1,0 +1,49 @@
+Week 3 practice Quiz
+
+Virtual servers, bare metal servers, and serverless computing resources are compute resources of cloud infrastructure
+
+Windows, Linux, UNIX are computer OS that typically run on virtual machines
+
+transient or Spot VMs offer unused capacity from data centers at lower costs
+
+bare metal servers take longer to provision than virtual servers, as they are physical machiens
+
+subnets are the smaller segments of networking spaces where cloud resources are deployed and security is implemented
+
+file storage is not local. It is accessed via a standard ethernet network.
+
+File storage is sometimes called NFS
+
+file storage - high speed fibre network
+
+Object Storage > standard tier bucket > storing objects that are frequently accessed - highest gigabyte cost associated with it
+
+VMware ESX and ESXI, Microsoft Hyper-V, open-source KVM
+
+hypervisors serve as an interface between a virtual machine and the underlying physicql hardware
+
+file storage is not local - it is accessed via a standard ethernet network
+
+block storage - fibre network
+
+fibre storage and block storage - highly resilient and available
+
+object storage is infinite
+
+cloud region is a geographic area where cloud provider's infrastructure is clustered
+
+Zone - unique physical locations with one or more data centers
+
+single tenant computer enviroments - dedicate hosts + bare metal server?
+
+a virtual machine is a software based computer that runs like a physical computer, need a virtual copy of the hardware and OS
+
+Object storage is accessed via an API and persists until explicitly de-provisioned
+
+file storage is slower because connects to computer nodes over standard ethernet network
+
+block storage suitable for low latency workloads, but expensive due to needin high fibre network
+
+block storage is persistent, even using high fibre network
+
+you can use object storage without connecting it to computer node

@@ -1,0 +1,22 @@
+Content Delivery Network (CDN)
+
+CDN
+
+content delivery networks
+
+makes your site faster
+users all around the world, but don't have servers around the world,
+
+eg syndbey and london could have 30 Users
+30 users that are accessing my server in dallas
+request to site, miliseconds, round trip might v long
+
+CDN - endpoints around the world
+
+CDN - reduces trip, and distance to communicate
+
+other benefit - security through obscurity
+
+object storage is slowest in terms of read and write speeds
+
+a CDN is a distributed network server accelerates internet content delivery by delivering temporarily stored or cached copies of website or media content to users based on their geographic location 

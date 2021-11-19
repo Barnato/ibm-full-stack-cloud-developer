@@ -1,0 +1,32 @@
+Object Storage - Tiers and APIs
+
+Data tiers
+
+classes of Tiers - data access frequency
+
+Standard tier - regular
+Vault/archive tier - one/twice a month, lower storage cost
+cold vault tier
+
+archiving rules for your data
+
+Object storage - speed
+
+IOPS options
+
+slower than file or block storage
+
+Object storage
+
+API (Application program interface)
+
+S3 - API - amaon - object storage
+
+effective solution for backup and disaster recovery
+
+more efficent than tape backups
+
+object storage has different tiers - with different charges for each
+
+object storage is slow compared to file and block Storage
+object storage accessed via API
