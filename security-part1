@@ -1,0 +1,50 @@
+Week 4
+
+shared responsibility
+
+cloud provider and you
+
+platform as a service
+- migraitng data
+- cloud provider manages security of platform (containers, network, isolation)
+
+infrastructure as a service
+
+saas
+cloud provider managed all apps
+you manage data
+
+architecture
+
+senstive data - keeo your own keys
+
+when is app processing data
+
+protect in memory data as-well
+when it is use
+
+holistic approach
+
+control keys
+- bring keys
+- keep your own keys
+- application that serves data
+- make sure data is on need by need basis
+- make sure you know which apps/users need to access data
+- from application
+- scan applications
+- dynmaic scanning
+
+cloud native enviroment
+- scan before deploy
+- only secured images
+- spin up new containers
+- container level and apps - protect
+
+Users - manage access who user is and from where they are coming from
+
+- from perspective of network access
+
+web application fireware, network protection
+
+identity and network
