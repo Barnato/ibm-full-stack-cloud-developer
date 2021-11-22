@@ -1,0 +1,20 @@
+Week 4
+
+- Cloud security concern
+- data loss and leakage
+- insecure interfaces and APIs
+- Identify access management - first line of defence
+- apps on cloud can authenticate users, cloud directory, google, twitter
+- sometimes API keys - can identify user
+- multi factor autentication, single user PINS, tokens, change in location
+- securely manage user profiles
+- directory service in cloud
+- reporting - user centric view
+- which users have access to which resource
+- under which conditions
+- provisioning users by specifyinhg roles for each user
+- password length, one time password
+- deprovising of access once people leave
+- access group, target, service offerings
+- role - actions allowed
+- access groups, streamline access assignment
