@@ -1,0 +1,66 @@
+Week 4
+
+Microservices
+
+Single application made of smaller components or services
+
+Multiple developers, different stacks
+
+Components can be scaled independently
+
+Microservices have shaped application development
+
+Microservices mean don’t have to write code by scratch
+
+Microservices, smaller amounts of code, core functions, search, product catalogues
+
+Microservices - search
+Microservices - recommendations, helps generate homepage
+
+Service discovery - roadmap
+
+API - application programming interface
+
+Introduction to Cloud Computing
+
+Week 4
+
+Serveless Computing
+
+Offloads infrastructure tasks:
+patching
+Provisioning
+scheduling
+Scaling
+
+Management of servers - removed from developers
+
+Allocates resources as needed for apps
+
+Runs code on demand
+
+pay only for resources being used
+
+serverless computing services
+
+AWS Lambda
+IBM Functions
+
+serverless is well suited to
+
+Text files
+Audio
+Image
+Video
+
+Tasks include:
+ data enrichment
+Transformation
+Validation and cleansing
+PDF processing
+Audio normalization
+Thumbnail generation video transcoding
+
+Problems with serverless:
+scale up and down in response to workload
+traditional server env might be better for long-running processes

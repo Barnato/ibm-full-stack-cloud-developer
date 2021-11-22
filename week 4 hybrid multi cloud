@@ -1,0 +1,28 @@
+Introduction to Cloud Computing
+
+Week 4
+
+Hybrid Multi-cloud
+
+Private cloud + third party cloud
+
+one provider - Email + one provider - CRM + one provider - infrastructure
+
+Why business use a hybrid multi cloud?
+
+Cloud scaling?
+
+on-premises - use a certain number of users, but load is seasonal
+To hit those peaks could scale up on-premises arch but could also take advantage of cloud can scale, automatic increase/decrease
+
+Business could have on-premise - can support web + billing and rewards API (EU)
+decide to take advantage of hybrid cloud to compose application across multiple cloud environments
+Move billing and UI capabilities over - North American data center
+So can scale up for America holidays but keep EU portions at normal levels
+
+Airline or travel industry - modernization
+Reservation systems might be difficult but all airlines have mobile applications
+80% of all enterprise still on-premises
+reservation system on premises
+but to create new user experience, mobile app, backend on public cloud, works with reservation
+Data & AI - airline industry historical data
