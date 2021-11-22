@@ -1,0 +1,18 @@
+Introduction to Cloud Computing
+
+Week 4
+
+Application modernization
+
+take advantage of new technologies
+
+Changing market dynamics
+
+What else application modernization entails
+
+Arch - monoliths - Modernization - distributed arch (prob serverless arch)  - micro services (moving away from XML coms towards REST)
+infrastructure - physical servers - Modernization - virtual machine - cloud - cloud
+delivery - waterfall - Modernization - agile - devOpps (includes site reliability engineering SRI)
+
+Speed and resiliency
+- devops brings that togethe
