@@ -1,0 +1,19 @@
+Week 4
+
+Encryption
+
+Last line of defence
+
+- Certificate management
+- scrambling data so it is inelligible
+- key transforms back to legible
+- keys need to be managed securely
+- data, in rest (database storage - Encryption for block + file storage, database encryption),
+in transit (encrpting data before transmission and arrival, TLS protocol for encryption in transit)
+in use (in computational memory)
+- customer supplied encryption keys
+- multi cloud, single encryption strategy accross clouds
+- data access management, integrated key management
+- protect sensitive workloads regardless of where data resides
+- audit keys
+- master and recovery keys
