@@ -10,7 +10,9 @@
 
 ## Build Tools
 
-* Build tools - compile code automatically.
+* Build tools - *compile code automatically*.
+
+  ![front-end-tools](/assets/front-end-tools.png)
 
 * Track changes, dependencies.
 
@@ -18,7 +20,7 @@
 
 * Running tests.
 
-* Intimate build from command line.
+* Intiate build from command line.
 
 * Build automation servers.
 
