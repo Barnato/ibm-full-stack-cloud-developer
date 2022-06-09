@@ -11,5 +11,3 @@
 * CSS and HTML - more efficent use of images makes web pages load faster.
 
   ![video-meta-tags](assets/video-meta-tags.png)
-
-  Image taken from [bitmovin](https://bitmovin.com/html5-video-tag-guide/).
