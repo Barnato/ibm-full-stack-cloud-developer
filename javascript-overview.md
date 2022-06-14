@@ -16,6 +16,10 @@ dynamic webpages.
 
 * wrapper objectrs vs primitive values.
 
+  ![wrapper](/assets/wrapper.png)
+
+  link in [stackoverflow](https://stackoverflow.com/questions/14080777/is-javascript-wrapper-object-creation-lightweight)
+
 * uppercase wrapper.
 
 * typeof - find data type.
