@@ -1,4 +1,4 @@
-# MNodule 4 Summary
+# Module 4 Summary
 
 * JavaScript is a scripting language that adds dynamic elements to a web page.
 
