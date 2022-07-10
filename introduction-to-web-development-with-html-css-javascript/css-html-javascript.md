@@ -4,7 +4,7 @@
 
 * XML - an extensible mark up language - design and transport data - displays web documents.
 
-* XHMTL - similar to HTML but with stricter formatting rules.
+* XHTML - similar to HTML but with stricter formatting rules.
 
 * Web Storage APIs - APIs allow data storage in a browser.
 
