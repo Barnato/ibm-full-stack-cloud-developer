@@ -8,7 +8,7 @@
 
   ``<div>``
 
-* Tag used to identify independent item of content in a doc:
+* Tag used to identify independent an item of content in a doc:
 
   ``<article>``
 
@@ -16,6 +16,6 @@
 
   ``<figure>``
 
-* Input control only accept numbers in a form: 
+* Input control only accepts numbers in a form: 
 
   ``<number>``
