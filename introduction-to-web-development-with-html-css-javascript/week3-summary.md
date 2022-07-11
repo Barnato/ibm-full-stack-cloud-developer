@@ -10,11 +10,11 @@
 
 * Tag used to identify independent item of content in a doc
 
-  ``<section>``
+  ``<article>``
 
 * Tag self contained image
 
-  ``<img>``
+  ``<figure>``
 
 * Input control only accept numbers in a form 
 
