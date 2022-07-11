@@ -1,11 +1,21 @@
 # Week 3 Summary
 
-Tag to hide info or controls in a doc
+* Tag to hide info or controls in a doc
 
-Tag used to seperate areas in a doc
+  ``<details>``
 
-Tag used to identify independent item of content in a doc
+* Tag used to seperate areas in a doc
 
-Tag self contained image
+``<div>``
 
-input control only accept numbers in a form 
+* Tag used to identify independent item of content in a doc
+
+  ``<section>``
+
+* Tag self contained image
+
+  ``<img>``
+
+* Input control only accept numbers in a form 
+
+  ``<number>``
