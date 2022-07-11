@@ -6,7 +6,7 @@
 
 * Tag used to seperate areas in a doc:
 
-``<div>``
+  ``<div>``
 
 * Tag used to identify independent item of content in a doc:
 
