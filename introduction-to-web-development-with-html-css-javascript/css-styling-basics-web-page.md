@@ -1,9 +1,8 @@
 # CSS styling basics for web
 
-* Create a basic webpage
-Specify the font family and font size for text
-Use colors to change the appearance of elements
-Create borders
+1. Create a basic webpage.
+1. Specify the font family and font size for text
+Use colors to change the appearance of elements and create borders.
 
 ```<!DOCTYPE html>
 <html>
