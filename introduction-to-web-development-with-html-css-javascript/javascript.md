@@ -1,4 +1,4 @@
-# Famos websites that use Javascriot
+# Famous websites that use Javascript
 
 * [Google](https://www.google.com/)
 * [Youtube](https://www.youtube.com/watch?v=YLooI4ntxik&t=12s)
